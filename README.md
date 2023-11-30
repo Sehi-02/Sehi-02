@@ -1,18 +1,24 @@
 <div align = "center">
 
    ![header](https://capsule-render.vercel.app/api?type=cylinder&color=e8c8d5&height=100&section=header&text=Sehi02&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-    <a align= "left">
-       저는 기술을 능숙하게 사용하는 프론트엔드를 꿈꾸고 있습니다. 그래서 웹에 대해 관심이 많고 프론트엔드 기술을 배울려고 노력중입니다. 아직 부족한 점이 많지만 최선을 다해 꿈을 이루고자 합니다. 
-       현재 도움을 주는 웹사이트 제작에 관심이 있습니다. 일상생활에 여러 어려움이 있고, 이를 우리 생활에 익숙하게 사용하는 IT기기를 이용해 해결할 수 있는 프로젝트를 생각중입니다. 대표적으로 독거노인을 위한 자원봉사지원 도움 웹사이트를 제작할 예정입니다.
-
+   <br>
  ## Hi!🖐️ Welcome to my GitHub.✨
 ### Let me introduce myself👇
 #### 🔭 I'm a college student now.
 #### 🌱 I'm learning at the front end.
 #### 👯 Let's work hard on the collaboration.
+<br>
+<br>
+
+### Interesting Project 
+#### => A project that provides convenience and assistance together
+   저는 편리함과 도움을 주는 웹사이트 제작에 관심이 있습니다. 
+   일상생활에 여러 어려움이 있고, 이를 우리 생활에 익숙하게 사용하는 IT기기를 이용해 해결할 수 있는 프로젝트를 생각중입니다. 
+   현재 독거노인을 위한 자원봉사지원을 도와주는 웹사이트을 만들려고 합니다. 
+
   
   
-  
+  </br>
   </br>
 
 ### My skills and Languages 🗂️
