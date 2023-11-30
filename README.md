@@ -13,7 +13,7 @@
   :I will always make a web app that can help others. I once made a web to help the elderly as a team project. This experience is a very special experience for me, and I want to keep making these experiences with other people.
 
 # My Skills
-<img src="https://img.shields.io/badge/javascript-#yellow?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-#blue?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
 
 
