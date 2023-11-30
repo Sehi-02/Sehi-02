@@ -2,18 +2,16 @@
 - 🔭 I'm a college student now.
 - 🌱 I'm learning at the front end.
 - 👯 Let's work hard on the collaboration.
-
-
-  :I am a computer science student. I'm currently studying hard every day with the goal of creating a web app. There are a lot of things that I lack, but I'm trying to do my best.
-
-< 🌱 I'm learning at the front end.>
-  :I am currently studying React and JavaScript. I want to be a front-end engineer who handles it skillfully someday.
-
-<👯 Let's work hard on the collaboration.>
-  :I will always make a web app that can help others. I once made a web to help the elderly as a team project. This experience is a very special experience for me, and I want to keep making these experiences with other people.
+  
+ I am currently studying React and JavaScript. I want to be a front-end engineer who handles it skillfully someday.
 
 # My Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 
+# My Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 
