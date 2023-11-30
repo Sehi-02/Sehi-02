@@ -12,4 +12,4 @@
 <👯 Let's work hard on the collaboration.>
   :I will always make a web app that can help others. I once made a web to help the elderly as a team project. This experience is a very special experience for me, and I want to keep making these experiences with other people.
 
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=White"/></a>
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=White"/>
